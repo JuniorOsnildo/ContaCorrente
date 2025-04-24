@@ -15,3 +15,5 @@ conta1.Transferir(150, conta2);
 
 conta1.ConsultarExtratos();
 conta2.ConsultarExtratos();
+conta1.ConsultarSaldo();
+conta2.ConsultarSaldo();
